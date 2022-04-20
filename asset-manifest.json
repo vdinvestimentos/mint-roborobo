@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.92abe684.css",
-    "main.js": "/static/js/main.360ac9b8.js",
-    "static/js/787.0e2c10fe.chunk.js": "/static/js/787.0e2c10fe.chunk.js",
-    "static/media/0015.jpg": "/static/media/0015.95914204acd7a8d0d674.jpg",
-    "static/media/ROBOROBO_LOGO.png": "/static/media/ROBOROBO_LOGO.e237dadeb0fe86839665.png",
-    "index.html": "/index.html",
-    "main.92abe684.css.map": "/static/css/main.92abe684.css.map",
-    "main.360ac9b8.js.map": "/static/js/main.360ac9b8.js.map",
-    "787.0e2c10fe.chunk.js.map": "/static/js/787.0e2c10fe.chunk.js.map"
+    "main.css": "/mint-roborobo/static/css/main.32d554a6.css",
+    "main.js": "/mint-roborobo/static/js/main.55a5e090.js",
+    "static/js/787.0e2c10fe.chunk.js": "/mint-roborobo/static/js/787.0e2c10fe.chunk.js",
+    "static/media/0015.jpg": "/mint-roborobo/static/media/0015.95914204acd7a8d0d674.jpg",
+    "static/media/ROBOROBO_LOGO.png": "/mint-roborobo/static/media/ROBOROBO_LOGO.e237dadeb0fe86839665.png",
+    "index.html": "/mint-roborobo/index.html",
+    "main.32d554a6.css.map": "/mint-roborobo/static/css/main.32d554a6.css.map",
+    "main.55a5e090.js.map": "/mint-roborobo/static/js/main.55a5e090.js.map",
+    "787.0e2c10fe.chunk.js.map": "/mint-roborobo/static/js/787.0e2c10fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92abe684.css",
-    "static/js/main.360ac9b8.js"
+    "static/css/main.32d554a6.css",
+    "static/js/main.55a5e090.js"
   ]
 }
